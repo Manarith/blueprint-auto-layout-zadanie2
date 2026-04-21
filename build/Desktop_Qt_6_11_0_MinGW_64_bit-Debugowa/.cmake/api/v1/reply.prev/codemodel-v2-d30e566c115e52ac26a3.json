@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cd93b6deee90cce0399a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "blueprint-auto-layout-zadanie2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blueprint-auto-layout-zadanie2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blueprint-auto-layout-zadanie2-Debug-957cb9c8475a4002810a.json",
+					"name" : "blueprint-auto-layout-zadanie2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "blueprint-auto-layout-zadanie2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blueprint-auto-layout-zadanie2_autogen-Debug-d9e88cfec5d868cc57d0.json",
+					"name" : "blueprint-auto-layout-zadanie2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "blueprint-auto-layout-zadanie2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blueprint-auto-layout-zadanie2_autogen_timestamp_deps-Debug-9515b5618e9e1b6aca39.json",
+					"name" : "blueprint-auto-layout-zadanie2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/blueprint-auto-layout-zadanie2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debugowa",
+		"source" : "C:/blueprint-auto-layout-zadanie2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

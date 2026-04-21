@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c45cb88d05f9e856ccd64b78c8aa2266 CMakeFiles/blueprint-auto-layout-zadanie2_autogen
+7ccbfe90733d1a1c97f44620c2842dee blueprint-auto-layout-zadanie2_autogen/timestamp
